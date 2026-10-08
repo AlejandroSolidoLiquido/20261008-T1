@@ -1,5 +1,5 @@
 estudiante1 = float(input("Nota de la examen (de 0 a 100): "))
-porcentaje1 = float(input("Asistencia en clase de 0 a 100 " ))
+porcentaje1 = float(input("Asistencia en clase de 0 a 40: " ))
  
 porcentaje1 = float(porcentaje1 / 40 * 100)
 if 0 <= estudiante1 <= 100:
